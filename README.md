@@ -5,11 +5,12 @@
 First, ensure [Python]([url](https://www.python.org/downloads/)) (version 3.8 and greater) and [pip](https://pip.pypa.io/en/stable/) are installed.
 
 Then, install the following dependencies using pip. In the terminal, run each of the following commands.
-
-`pip3 install bs4'
-`pip3 install lxml'
-`pip3 install pandas`
-`pip3 install nltk`
+```
+pip3 install bs4
+pip3 install lxml
+pip3 install pandas
+pip3 install nltk
+```
 
 Then, open up a terminal-level Python interpreter. (i.e. Python Idle)
 Run the following commands:
