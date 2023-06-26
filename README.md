@@ -1,5 +1,5 @@
 # SearchEngine
-
+A command line based local search engine.
 
 ## Installation
 First, ensure [Python](https://www.python.org/downloads/) (version 3.8 and greater) and [pip](https://pip.pypa.io/en/stable/) are installed.
