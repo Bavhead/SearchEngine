@@ -30,7 +30,7 @@ Depending on the size of the dataset, this can take a while. The current average
 The indexes will be created in `SearchEngine/indexes/*.csv`
 All indexes with a number attached can be safely deleted after completion of the program.
 
-!YAY! Now we can run queries.
+Yay! Now we can run queries.
 
 To run queries, use the following command from inside the SearchEngine directory:
 
@@ -38,4 +38,4 @@ To run queries, use the following command from inside the SearchEngine directory
 
 Then, enter your query into the terminal and hit enter
 A list of the top 5 results will be presented along with the time it took to run the query.
-Enter " :quit: " to exit the program.
+Enter `:quit:` to exit the program.
