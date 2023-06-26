@@ -38,4 +38,4 @@ To run queries, use the following command from inside the SearchEngine directory
 
 Then, enter your query into the terminal and hit enter
 A list of the top 5 results will be presented along with the time it took to run the query.
-Enter `:quit:` to exit the program.
+Type `:quit:` to exit the program.
