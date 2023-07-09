@@ -2,7 +2,7 @@
 A command line based local search engine.
 
 ## Installation
-First, ensure [Python](https://www.python.org/downloads/) (version 3.8 and greater) and [pip](https://pip.pypa.io/en/stable/) are installed.
+Ensure [Python](https://www.python.org/downloads/) (version 3.8 and greater) and [pip](https://pip.pypa.io/en/stable/) are installed.
 
 Then, install the following dependencies using pip. In the terminal, run each of the following commands individually.
 ```
@@ -34,7 +34,7 @@ Yay! Now we can run queries.
 
 To run queries, use the following command from inside the SearchEngine directory:
 
-`python3 modified_search_gui.py`
+```python3 modified_search_gui.py```
 
 Then, enter your query into the terminal and hit enter
 A list of the top 5 results will be presented along with the time it took to run the query.
