@@ -34,7 +34,9 @@ Yay! Now we can run queries.
 
 To run queries, use the following command from inside the SearchEngine directory:
 
-```python3 modified_search_gui.py```
+```
+python3 modified_search_gui.py
+```
 
 Then, enter your query into the terminal and hit enter
 A list of the top 5 results will be presented along with the time it took to run the query.
