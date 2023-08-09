@@ -24,7 +24,7 @@ This is necessary for the tokenizer and stemmer to function as intended.
 
 ## Usage
 Use the following command from inside the SearchEngine directory to build the index:
-`python3 indexer.py <path-to-dataset>`
+```python3 indexer.py <path-to-dataset>```
 
 Depending on the size of the dataset, this can take a while. The current average speed is 1GB/7min.
 The indexes will be created in `SearchEngine/indexes/*.csv`
