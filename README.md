@@ -12,7 +12,7 @@ pip3 install pandas
 pip3 install nltk
 ```
 
-Then, open up a terminal-level Python interpreter. (i.e. Python Idle)
+Then, open up a terminal-level Python interpreter (i.e. Python Idle).
 Run the following commands:
 
 ```
